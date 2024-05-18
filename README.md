@@ -11,7 +11,8 @@ Mingle.ai is a web application that enhances interaction with text documents. Us
 
 ## Demo
 
-[Insert a screenshot or gif of your application here]
+
+![Mingle.ai Screenshot](../frontend/mingle.jpeg)
 
 ## Installation
 
